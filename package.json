@@ -1,5 +1,5 @@
 {
-  "name": "uni-composition-api",
+  "name": "@linkpi/uni-composition-api",
   "version": "0.6.1",
   "description": "uni-composition-api",
   "main": "dist/index.cjs.js",
@@ -20,7 +20,7 @@
   "author": "Mr.Mao",
   "license": "ISC",
   "dependencies": {
-    "@vue/composition-api": "^1.0.0-rc.5",
+    "@vue/composition-api": "^1.7.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
