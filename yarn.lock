@@ -41,12 +41,10 @@
   resolved "https://registry.nlark.com/@types/node/download/@types/node-14.17.9.tgz#b97c057e6138adb7b720df2bd0264b03c9f504fd"
   integrity sha1-uXwFfmE4rbe3IN8r0CZLA8n1BP0=
 
-"@vue/composition-api@^1.0.0-rc.5":
-  version "1.0.5"
-  resolved "https://registry.nlark.com/@vue/composition-api/download/@vue/composition-api-1.0.5.tgz#c7cef457284096e75cc0894e0cb9a251f91eba3f"
-  integrity sha1-x870VyhAludcwIlODLmiUfkeuj8=
-  dependencies:
-    tslib "^2.3.0"
+"@vue/composition-api@^1.7.1":
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.7.2.tgz#0b656f3ec39fefc2cf40aaa8c12426bcfeae1b44"
+  integrity sha512-M8jm9J/laYrYT02665HkZ5l2fWTK4dcVg3BsDHm/pfz+MjDYwX+9FUaZyGwEyXEDonQYRCo0H7aLgdklcIELjw==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -164,11 +162,6 @@ supports-color@^5.3.0:
   integrity sha1-4uaaRKyHcveKHsCzW2id9lMO/I8=
   dependencies:
     has-flag "^3.0.0"
-
-tslib@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.nlark.com/tslib/download/tslib-2.3.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2Ftslib%2Fdownload%2Ftslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
-  integrity sha1-gDuM2rPhK6WBpMpByIObuw2ssJ4=
 
 typescript@^4.2.3:
   version "4.3.5"

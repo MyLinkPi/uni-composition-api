@@ -1,5 +1,5 @@
 {
-  "name": "@linkpi/uni-composition-api",
+  "name": "@mylinkpi/uni-composition-api",
   "version": "0.6.2",
   "description": "uni-composition-api",
   "main": "dist/index.cjs.js",
